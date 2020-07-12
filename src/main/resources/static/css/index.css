@@ -1,0 +1,20 @@
+.bodystyle{background-color:powderblue;}
+
+.css-3d-text {
+    text-align: center;
+    font-size: 137px;
+    color: #68ad5d;
+    font-family: Times New Roman;
+    text-shadow: 0px 0px 0 rgb(14, 235, -20),
+                -1px -1px 0 rgb(-6, 215, -40),
+                 -2px -2px 0 rgb(-26, 195, -60),
+                 -3px -3px 0 rgb(-46, 175, -80),
+                 -4px -4px 0 rgb(-66, 155, -100),
+                 -5px -5px 0 rgb(-86, 135, -120),
+                 -6px -6px 0 rgb(-106, 115, -140),
+                 -7px -7px 0 rgb(-126, 95, -160),
+                 -8px -8px 0 rgb(-146, 75, -180),
+                 -9px -9px 8px rgba(54, 5, 25, 0.67),
+                 -9px -9px 1px rgba(54, 5, 25, 0.5),
+                 0px 0px 8px rgba(54, 5, 25, .2);
+}
