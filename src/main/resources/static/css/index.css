@@ -1,5 +1,5 @@
 .bodystyle {
-    background-color: powderblue;
+    background-color: lightseagreen;
 }
 
 .css-3d-text {
@@ -12,6 +12,12 @@
 
 .rounddiv {
     float: right;
+}
+
+.point {
+    border-radius: 50%;
+    border: 10px solid lightgreen;
+    margin: 0 auto;
 }
 
 #tablediv {
