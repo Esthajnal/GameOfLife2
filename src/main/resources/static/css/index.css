@@ -1,5 +1,5 @@
 .bodystyle {
-    background-color: lightseagreen;
+    background-color: rgba(14, 235, 0, 0.53);
 }
 
 .css-3d-text {
@@ -14,19 +14,13 @@
     float: right;
 }
 
-.point {
-    border-radius: 50%;
-    border: 10px solid lightgreen;
-    margin: 0 auto;
-}
-
 #tablediv {
     display: table;
     width: -webkit-fill-available;
     height: -webkit-fill-available;
     background-color: beige;
     border: 2px solid #131212;
-    border-spacing: 5px;
+    border-spacing: 1px;
 }
 
 .rowdiv {
@@ -38,4 +32,15 @@
     display: table-cell;
     background-color: yellowgreen;
     padding: 20px;
+    border: 1px solid darkgreen;
 }
+
+.point {
+    border-radius: 50%;
+    padding: 10px;
+    background-color: darkgreen;
+    border: 1px solid lightgreen;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: -10px;
+    }
